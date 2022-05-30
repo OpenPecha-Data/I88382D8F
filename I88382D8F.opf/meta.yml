@@ -1,0 +1,27 @@
+id: I88382D8F
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-30T18:17:23.807822'
+last_modified: '2022-05-30T18:17:23.807827'
+parser: null
+source_metadata:
+  title: Akhyuk Rinpoche Lungtok Gyaltsen
+  language: bo
+  description: 'Texts by Khenpo Akhyuk Rinpoche Drubwang Lungtok Gyaltsen (a khyug
+    grub dbang lung rtogs rgyal mtshan, 1927–2011), the renowned successor of Tromge
+    Arik Rinpoche at the vast Dharma encampment of Yachen Gar:'
+  volume:
+    f5ACC:
+      title: A Prayer to the Precious Teacher of Incomparable Kindness, Jamyang Lungtok
+        Gyaltsen
+      base_file: f5ACC.txt
+      order: 1
+      parent: Prayers
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
